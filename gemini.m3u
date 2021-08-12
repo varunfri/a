@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://img1.vodafoneplay.in/136154/640x360_727d4aae-b128-494b-bd3a-4898cca130e3.jpg" group-title="Sun net",Gemini HD
+https://suntvvodaf-live.s.llnwi.net/GeminiTVHD/GeminiTVHD.isml/GeminiTVHD-audio_1=64000-video=5000000.m3u8?p=63&se=1628560955&e=1628590655&h=686a7f4155ed1ba7b34af016c6664b5b
+
+#EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/26568/200x200_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="Sun net",Gemini Music HD
+https://suntvvodaf-live.s.llnwi.net/GeminiMusicHD/GeminiMusicHD.isml/GeminiMusicHD-audio_1=64000-video=5000000.m3u8?p=69&se=1628558556&e=1628588256&h=00aa44cd325021699536e28a1ec0bab9
+
+
+#EXTINF:-1 tvg-logo="https://static1.vodafoneplay.in/136176/640x360_09139d2d-abf2-4ba1-a055-dd3143a638cf.jpg" group-title="Sun net",Gemini Movies HD
+https://suntvvodaf-live.s.llnwi.net/GeminiMoviesHD/GeminiMoviesHD.isml/GeminiMoviesHD-audio_1=64000-video=699968.m3u8?p=71&se=1628561466&e=1628591166&h=0d400bc331031281ba7a654020373bef
+
+#EXTINF:-1 tvg-logo="https://img2.vodafoneplay.in/136218/640x360_acd0600a-3752-4900-9899-78add7e19774.jpg" group-title="Sun net",Gemini Comedy
+https://suntvvodaf-live.s.llnwi.net/GeminiComedy/GeminiComedy.isml/GeminiComedy-audio_1=64000-video=1499968.m3u8?p=67&se=1628561849&e=1628591549&h=4455a9d580b491fa1c7860a0a4bf4cd2
+
+#EXTINF:-1 tvg-logo="https://static1.vodafoneplay.in/361288/640x360_ColorsKannadaCinema_361288_30dec0fd-ff79-41b8-bc55-022d577ca9d8.jpg" group-title="Sun net",Colours cinema
+https://apalyastream12-lh.akamaihd.net/i/COLORSKANNADACINEMAABRDVR2_2000@371656/index_4_av-p.m3u8?sd=10&dw=3600&rebase=on&hdntl=exp=1628648131~acl=/*~data=hdntl~hmac=be5bf7812baafbdef78f98df1bf8dd0875a1396acc67f449ef60c8defc61fd4a
+
+#EXTINF:-1 tvg-logo="https://img2.vodafoneplay.in/136327/640x360_34289aec-0ad1-4993-ae6d-d7520f9d37ec.jpg" group-title="Sun net",Udaya Music
+https://suntvvodaf-live.s.llnwi.net/UdayaMusic/UdayaMusic.isml/UdayaMusic-audio_1=64000-video=699968.m3u8?p=63&se=1628562303&e=1628592003&h=cc228e984bc40f5f3b1e82990a0a1ae9
+
+#EXTINF:-1 tvg-logo="https://img2.vodafoneplay.in/136301/640x360_c982947a-dbc1-49fd-836c-15f4c45a3688.jpg" group-title="Sun net",Udaya Movies
+https://suntvvodaf-live.s.llnwi.net/UdayaMovies/UdayaMovies.isml/UdayaMovies-audio_1=64000-video=699968.m3u8?p=65&se=1628562716&e=1628592416&h=5a346b597cb573fe44d632379967d845
+
+#EXTINF:-1 tvg-logo="https://static.vodafoneplay.in/136349/640x360_1bef09af-5f12-4f88-9761-a24375095f5d.jpg" group-title="Sun net",Udaya Comedy
+https://suntvvodaf-live.s.llnwi.net/UdayaComedy/UdayaComedy.isml/UdayaComedy-audio_1=64000-video=699968.m3u8?p=65&se=1628562632&e=1628592332&h=1d5e68c8060f3e95044a4e18bdfcc2a7
+
+#EXTINF:-1 tvg-logo="https://img1.vodafoneplay.in/136310/640x360_c70caeaf-3572-49ea-8e6f-2362308b1d5c.jpg" group-title="Sun net",Udaya Tv
+https://suntvvodaf-live.s.llnwi.net/UdayaTVHD/UdayaTVHD.isml/UdayaTVHD-audio_1=64000-video=699968.m3u8?p=61&se=1628562559&e=1628592259&h=74c3591260503606953282afbe4d7484
+
+
+
+
+
