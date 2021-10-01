@@ -436,3 +436,9 @@ https://snehz5tvnew.herokuapp.com/?c=0-9-279
 
 #EXTINF:-1 tvg-id="ABP ASMITA Gujarat"tvg-country="INDIA" tvg-language="Gujarati" tvg-logo=" https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-403/channel_list/1170x658_395672680.png" group-title="Gujarati",ABP ASMITA
 https://snehz5tvnew.herokuapp.com/?c=0-9-403
+
+#EXTINF:-1 tvg-id="&PRIVE HD"tvg-country="INDIA" tvg-language="Gujarati" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="E
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
+
+#EXTINF:-1 tvg-id="3TamilTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
