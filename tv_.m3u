@@ -510,3 +510,6 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 #EXTINF: -1 tvg-id="9XM.IN" tvg-language="HINDI" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
+#EXTINF: -1 tvg-id="SAKSHITV.IN" tvg-language="TELUGU" tvg-logo="https://stonna.com/wp-content/uploads/2020/05/maxresdefault_live-12.jpg" group-title="TELUGU",SAKSHI TV TELUGU
+https://www.youtube.com/watch?v=8McTsOqeueE
