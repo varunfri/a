@@ -446,10 +446,10 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV-LIVE",SONY HD
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1633362539~acl=%2f*~id=3117a887-14ae-44fd-998d-078eef62df8b~data=hdntl~hmac=d7298356e5602663b5ea58ca5828ed80ef35c946049b6db30dd2775c606e0ccd/master_3500.m3u8?aka_me_session_id=AAAAAAAAAABrIlthAAAAAGLpHEiu+P91mbwdsjm6sfZoyWwg9T3FyXc0XKgfQ22G%2fWuW7xsn4RIBgvULkuwvSHpDAhycXS8W&aka_media_format_type=hls&originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/c03df2b3-6856-40a2-9b63-f088ab24d670:SIN2/variant/eb410dcdf1381105c4deb73b10f1e001/bandwidth/4571600.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-LIVE",SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1633276303~exp=1633276603~acl=*~id=bc8fe379-eb40-4c8a-9145-7a041cbe3457~hmac=7632482ccbb424570a488b45aa9e930cab47fa568c8c31d4b4fec46410a8bf26&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/140a6a74-377b-4af6-8ba0-04cf9d186fa5:SIN/master.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-LIVE",SONY MARATHI
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
