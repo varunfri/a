@@ -187,130 +187,130 @@ https://snehz5tvnew.herokuapp.com/?c=0-9-tvpictureshd
 #EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/fvz8x3H/1170x658withlog-1721007595.webp" group-title="HINDI",ZEE ANMOL CINEMA 
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeeanmolcinema
 
-#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/channel_list/1170x658withlogo_218202605.png" group-title="HINDI",ZEE BOLLYWOOD
+#EXTINF:-1 tvg-id="ZEE BOLLYWOOD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/TqgVCFJ/1170x658withlogo-218202605.webp" group-title="HINDI",ZEE BOLLYWOOD
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeeclassic
 
-#EXTINF:-1 tvg-id="ZEE CINEMA SD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo=" https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo_807278654.png" group-title="HINDI",ZEE CINEMA SD
+#EXTINF:-1 tvg-id="ZEE CINEMA SD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo=" " group-title="HINDI",ZEE CINEMA SD
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeecinema
 
-#EXTINF:-1 tvg-id="&PICTURES SD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog_1269578414.png" group-title="HINDI",&PICTURES  SD
+#EXTINF:-1 tvg-id="&PICTURES SD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/0fxk7ck/1170x658withlog-1269578414.webp" group-title="HINDI",&PICTURES  SD
 https://snehz5tvnew.herokuapp.com/?c=0-9-pictures
 
-#EXTINF:-1 tvg-id="ZEE ACTION" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog_1953200347.png" group-title="HINDI",ZEE ACTION 
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/wwnJ0dY/1170x658withlog-1953200347.webp" group-title="HINDI",ZEE ACTION 
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeeaction
 
-#EXTINF:-1 tvg-id="DD NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/1170x658withlogo_72275493.png" group-title="HINDI",DD NEWS
+#EXTINF:-1 tvg-id="DD NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/gDrx83m/1170x658withlogo-72275493.webp" group-title="HINDI",DD NEWS
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddnews
 
-#EXTINF:-1 tvg-id="DD KISAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddkisan/channel_list/1170x658withlogo_579794123.png" group-title="HINDI",DD KISAN
+#EXTINF:-1 tvg-id="DD KISAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/ZHR4b0D/1170x658withlogo-579794123.webp" group-title="HINDI",DD KISAN
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddkisan
 
-#EXTINF:-1 tvg-id="9X JALWA" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-133/channel_list/1170x658withlog_1438225875.png" group-title="HINDI",9X JALWA
+#EXTINF:-1 tvg-id="9X JALWA" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/2FFJJp7/1170x658withlog-1438225875.webp" group-title="HINDI",9X JALWA
 https://snehz5tvnew.herokuapp.com/?c=0-9-133
 
-#EXTINF:-1 tvg-id="9XM" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-131/channel_list/1170x658withlog_2074233892.png" group-title="HINDI",9XM
-https://snehz5tvnew.herokuapp.com/?c=0-9-131
+#EXTINF: -1 tvg-id="9XM.IN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="BOOGLE BOLLYWOOD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-165/channel_list/1170x658withlog_1849594732.png" group-title="HINDI",BOOGLE BOLLYWOOD
+#EXTINF:-1 tvg-id="BOOGLE BOLLYWOOD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/8KvDLDz/1170x658withlog-1849594732.webp" group-title="HINDI",BOOGLE BOLLYWOOD
 https://snehz5tvnew.herokuapp.com/?c=0-9-165
 
-#EXTINF:-1 tvg-id="SANSKAR TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/channel_list/1170x658withlog_1152304152.png" group-title="HINDI",SANSKAR TV
+#EXTINF:-1 tvg-id="SANSKAR TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/mc0StVj/1170x658withlog-1152304152.webp" group-title="HINDI",SANSKAR TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-channel_1144658965
 
-#EXTINF:-1 tvg-id="SATSANG TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1565694979/channel_list/1170x658withlogo_66703857.png" group-title="HINDI",SATSANG TV
+#EXTINF:-1 tvg-id="SATSANG TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/hy53Cjj/1170x658withlogo-66703857.webp" group-title="HINDI",SATSANG TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-channel_1565694979
 
-#EXTINF:-1 tvg-id="DIVYA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-divyatv/channel_list/1170x658withlog_2128007300.png" group-title="HINDI",DIVYA TV
+#EXTINF:-1 tvg-id="DIVYA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/PzrfP8N/1170x658withlog-2128007300.webp" group-title="HINDI",DIVYA TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-divyatv
 
 #EXTINF:-1 tvg-id="KRISHNA VANI " tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-166/channel_list/1170x658withlogo_450865576.png" group-title="HINDI",KRISHNA VANI TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-166
 
-#EXTINF:-1 tvg-id=ZEE SALAM  " tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/1170x658withlog_1866029228.png" group-title="HINDI",ZEE SALAM 
+#EXTINF:-1 tvg-id=ZEE SALAM  " tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/nrMKpC2/1170x658withlog-1866029228.webp" group-title="HINDI",ZEE SALAM 
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeesalaam
 
 #EXTINF:-1 tvg-id=ZEE TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/channel_list/1170x658withlogo_200095097.png" group-title="HINDI",ZEE TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-zeetv
 
-#EXTINF:-1 tvg-id="DD URDU" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddurdu/channel_list/1170x658withlog_1440959247.png" group-title="HINDI",DD URDU
+#EXTINF:-1 tvg-id="DD URDU" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/Z6fnjb7/1170x658withlog-1440959247.webp" group-title="HINDI",DD URDU
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddurdu
 
-#EXTINF:-1 tvg-id="DD RAJASTHAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddrajasthanjaipur/channel_list/1170x658withlog_1491909175.png" group-title="HINDI",DD RAJASTHAN
+#EXTINF:-1 tvg-id="DD RAJASTHAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/6vfVvp7/1170x658withlog-1491909175.webp" group-title="HINDI",DD RAJASTHAN
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddrajasthanjaipur
 
-#EXTINF:-1 tvg-id="DD BHAEATI" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddbharati/channel_list/1170x658withlog_1749264623.png" group-title="HINDI",DD BHARATI
+#EXTINF:-1 tvg-id="DD BHARATI" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/yQ82MMp/1170x658withlog-1749264623.webp" group-title="HINDI",DD BHARATI
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddbharati
 
-#EXTINF:-1 tvg-id="DD MP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddmadhyapradesh/channel_list/1170x658withlog_1218231157.png" group-title="HINDI",DD MP
+#EXTINF:-1 tvg-id="DD MP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/MBHCkRZ/1170x658withlog-1218231157.webp" group-title="HINDI",DD MP
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddmadhyapradesh
 
-#EXTINF:-1 tvg-id="DD BIHAR" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddbihar/channel_list/1170x658withlog_1865440648.png" group-title="HINDI",DD BIHAR
+#EXTINF:-1 tvg-id="DD BIHAR" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/ccvDrvq/1170x658withlog-1865440648.webp" group-title="HINDI",DD BIHAR
 https://snehz5tvnew.herokuapp.com/?c=0-9-ddbihar
 
-#EXTINF:-1 tvg-id="DD UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-dduttarpradesh/channel_list/1170x658withlog_1445486903.png" group-title="HINDI",DD UP
+#EXTINF:-1 tvg-id="DD UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/2cw5HY5/1170x658withlog-1445486903.webp" group-title="HINDI",DD UP
 https://snehz5tvnew.herokuapp.com/?c=0-9-dduttarpradesh
 
-#EXTINF:-1 tvg-id="HARE KRISHNA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-183/channel_list/1170x658withlog_1124442022.png" group-title="HINDI",HARE KRISHNA TV
+#EXTINF:-1 tvg-id="HARE KRISHNA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/jzj0trw/1170x658withlog-1124442022.webp" group-title="HINDI",HARE KRISHNA TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-183
 
-#EXTINF:-1 tvg-id="ZEE NEWS UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/channel_list/1170x658withlogo_955304463.png" group-title="HINDI",ZEE NEWS UP
+#EXTINF:-1 tvg-id="ZEE NEWS UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/Sry4Mgm/1170x658withlogo-955304463.webp" group-title="HINDI",ZEE NEWS UP
 https://snehz5tvnew.herokuapp.com/?c=0-9-channel_265145625
 
-#EXTINF:-1 tvg-id="MP NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-172/channel_list/1170x658withlog_1325098382.png" group-title="HINDI",MP NEWS
+#EXTINF:-1 tvg-id="MP NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/D7Xk9qr/1170x658withlog-1325098382.webp" group-title="HINDI",MP NEWS
 https://snehz5tvnew.herokuapp.com/?c=0-9-172
 
-#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-176/channel_list/1170x658withlogo_673971588.png" group-title="HINDI",ZEE CLASSIC
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/swYxd20/1170x658withlogo-673971588.webp" group-title="HINDI",ZEE CLASSIC
 https://snehz5tvnew.herokuapp.com/?c=0-9-176
 
-#EXTINF:-1 tvg-id="&EXPLORE HD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo_358457080.png" group-title="HINDI",&EXPLORE HD
+#EXTINF:-1 tvg-id="&EXPLORE HD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/M509PwH/1170x658withlogo-358457080.webp" group-title="HINDI",&EXPLORE HD
 https://snehz5tvnew.herokuapp.com/?c=0-9-209
 
-#EXTINF:-1 tvg-id="ZEEZEST HD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog_2096037619.png" group-title="HINDI",ZEEZEST HD
+#EXTINF:-1 tvg-id="ZEEZEST HD" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/4tXX8mK/1170x658withlog-2096037619.webp" group-title="HINDI",ZEEZEST HD
 https://snehz5tvnew.herokuapp.com/?c=0-9-348
 
-#EXTINF:-1 tvg-id="DD NATIONAL" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-250/channel_list/1170x658withlogo_436360213.png" group-title="HINDI",DD NATIONAL
+#EXTINF:-1 tvg-id="DD NATIONAL" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/FW8JQPb/1170x658withlogo-436360213.webp" group-title="HINDI",DD NATIONAL
 https://snehz5tvnew.herokuapp.com/?c=0-9-250
 
-#EXTINF:-1 tvg-id="INDIA NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-272/channel_list/indianews_1982216031.png" group-title="HINDI",INDIA NEWS
+#EXTINF:-1 tvg-id="INDIA NEWS" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/7W7xtyK/indianews-1982216031.webp" group-title="HINDI",INDIA NEWS
 https://snehz5tvnew.herokuapp.com/?c=0-9-272
 
-#EXTINF:-1 tvg-id="INDIA NEWS UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-275/channel_list/1170x658withlog_1850271375.png" group-title="HINDI",INDIA NEWS
+#EXTINF:-1 tvg-id="INDIA NEWS UP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/WHprSbH/1170x658withlog-1850271375.webp" group-title="HINDI",INDIA NEWS
 https://snehz5tvnew.herokuapp.com/?c=0-9-275
 
-#EXTINF:-1 tvg-id="INDIA NEWS RAJASTHAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-276/channel_list/1170x658withlogo_324814827.png" group-title="HINDI",INDIA NEWS RAJASTHAN
+#EXTINF:-1 tvg-id="INDIA NEWS RAJASTHAN" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/Df8D2rS/1170x658withlogo-324814827.webp" group-title="HINDI",INDIA NEWS RAJASTHAN
 https://snehz5tvnew.herokuapp.com/?c=0-9-276
 
-#EXTINF:-1 tvg-id="INDIA NEWS MP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-277/channel_list/1170x658withlog_1336270103.png" group-title="HINDI",INDIA NEWS MP
+#EXTINF:-1 tvg-id="INDIA NEWS MP" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/h7MH0jB/1170x658withlog-1336270103.webp" group-title="HINDI",INDIA NEWS MP
 https://snehz5tvnew.herokuapp.com/?c=0-9-276
 
-#EXTINF:-1 tvg-id="INDIA NEWS HARYANA" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-278/channel_list/1170x658withlog_1582071351.png" group-title="HINDI",INDIA NEWS HARYANA
+#EXTINF:-1 tvg-id="INDIA NEWS HARYANA" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/4W791K7/1170x658withlog-1582071351.webp" group-title="HINDI",INDIA NEWS HARYANA
 https://snehz5tvnew.herokuapp.com/?c=0-9-278
 
-#EXTINF:-1 tvg-id="SADHANA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-284/channel_list/1170x658withlogo_844800250.png" group-title="HINDI",SADHANA TV
+#EXTINF:-1 tvg-id="SADHANA TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/jw68RmJ/1170x658withlogo-844800250.webp" group-title="HINDI",SADHANA TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-284
 
-#EXTINF:-1 tvg-id="EASHWAR TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog_1126976137.png" group-title="HINDI",EASHWAR TV
+#EXTINF:-1 tvg-id="EASHWAR TV" tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/zF57n9F/1170x658withlog-1126976137.webp" group-title="HINDI",EASHWAR TV
 https://snehz5tvnew.herokuapp.com/?c=0-9-285
 
-#EXTINF:-1 tvg-id="ZEE5 MUSIC HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-298/channel_list/1170x658psd_1468258188.png" group-title="HINDI",ZEE5 MUSIC HINDI
+#EXTINF:-1 tvg-id="ZEE5 MUSIC HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/GtwtzHJ/1170x658psd-1468258188.webp" group-title="HINDI",ZEE5 MUSIC HINDI
 https://snehz5tvnew.herokuapp.com/?c=0-9-298
 
-#EXTINF:-1 tvg-id="ZEE5 MUSIC ORIGINALS HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-299/channel_list/1170x658withlogo_502369782.png" group-title="HINDI",ZEE5 MUSIC ORIGINALS HINDI
+#EXTINF:-1 tvg-id="ZEE5 MUSIC ORIGINALS HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/qrjJRMq/1170x658withlogo-502369782.webp" group-title="HINDI",ZEE5 MUSIC ORIGINALS HINDI
 https://snehz5tvnew.herokuapp.com/?c=0-9-299
 
-#EXTINF:-1 tvg-id="ZEE5 MUSIC PUNJAB BEATS"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-300/channel_list/1170x658withlog_1014754213.png" group-title="HINDI",ZEE5 MUSIC PUNJAB BEATS
+#EXTINF:-1 tvg-id="ZEE5 MUSIC PUNJAB BEATS"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/PzWM5b5/1170x658withlog-1014754213.webp" group-title="HINDI",ZEE5 MUSIC PUNJAB BEATS
 https://snehz5tvnew.herokuapp.com/?c=0-9-300
 
-#EXTINF:-1 tvg-id="ZEE5 MUSIC ROMANCE"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-301/channel_list/1170x658psd_899351993.png" group-title="HINDI",ZEE5 MUSIC ROMANCE
+#EXTINF:-1 tvg-id="ZEE5 MUSIC ROMANCE"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/Yypvm88/1170x658psd-899351993.webp" group-title="HINDI",ZEE5 MUSIC ROMANCE
 https://snehz5tvnew.herokuapp.com/?c=0-9-301
 
-#EXTINF:-1 tvg-id="SADHNA NEWS MP"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-319/channel_list/1170x658withlog_2140696542.png" group-title="HINDI",SADHNA NEWS MP
+#EXTINF:-1 tvg-id="SADHNA NEWS MP"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/Fbccfrm/1170x658withlog-2140696542.webp" group-title="HINDI",SADHNA NEWS MP
 https://snehz5tvnew.herokuapp.com/?c=0-9-319
 
-#EXTINF:-1 tvg-id="UDAY NEWS HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-346/channel_list/1170x658withlogo_985753632.png" group-title="HINDI",UDAY NEWS HINDI
+#EXTINF:-1 tvg-id="UDAY NEWS HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/nrMmGv9/1170x658withlogo-985753632.webp" group-title="HINDI",UDAY NEWS HINDI
 https://snehz5tvnew.herokuapp.com/?c=0-9-346
 
-#EXTINF:-1 tvg-id="BHARAT SAMACHAR HINDI NEWS"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-354/channel_list/1170x658withlog_1425324314.png" group-title="HINDI",BHARAT SAMACHAR HINDI NEWS
+#EXTINF:-1 tvg-id="BHARAT SAMACHAR HINDI NEWS"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://i.ibb.co/2NBjw7B/1170x658withlog-1425324314.webp" group-title="HINDI",BHARAT SAMACHAR HINDI NEWS
 https://snehz5tvnew.herokuapp.com/?c=0-9-354
 
 #EXTINF:-1 tvg-id="SUDHARSHAN NEWS HINDI"tvg-country="INDIA" tvg-language="HINDI" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-383/channel_list/1170x658_1535320119.png" group-title="HINDI",SUDHARSHAN NEWS HINDI
@@ -442,77 +442,5 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="3TamilTV.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV-LIVE",SONY HD
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1633362539~acl=%2f*~id=3117a887-14ae-44fd-998d-078eef62df8b~data=hdntl~hmac=d7298356e5602663b5ea58ca5828ed80ef35c946049b6db30dd2775c606e0ccd/master_3500.m3u8?aka_me_session_id=AAAAAAAAAABrIlthAAAAAGLpHEiu+P91mbwdsjm6sfZoyWwg9T3FyXc0XKgfQ22G%2fWuW7xsn4RIBgvULkuwvSHpDAhycXS8W&aka_media_format_type=hls&originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/c03df2b3-6856-40a2-9b63-f088ab24d670:SIN2/variant/eb410dcdf1381105c4deb73b10f1e001/bandwidth/4571600.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="SONYLIV-LIVE",SAB HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1633276303~exp=1633276603~acl=*~id=bc8fe379-eb40-4c8a-9145-7a041cbe3457~hmac=7632482ccbb424570a488b45aa9e930cab47fa568c8c31d4b4fec46410a8bf26&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/140a6a74-377b-4af6-8ba0-04cf9d186fa5:SIN/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIV-LIVE",SONY MARATHI
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIV-LIVE",SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="SONYLIV-LIVE",SONY AATH
-https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="HINDI", SONY YAY
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="ENGLSIH",SONY MAX HD
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="ENGLSIH",SONY MAX
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="ENGLSIH", SONY WAH
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="ENGLISH",SONY MAX2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="ENGLISH",SONY PIX HD
-https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="ENGLISH",SONY SIX HD
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="ENGLISH",SONY TEN 1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="ENGLSIH",SONY TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="ENGLISH",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="ENGLISH",SONY SIX
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="ENGLISH",SONY TEN 1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="ENGLISH",SONY TEN 2
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="ENGLISH",SONY TEN 3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="ENGLISH",SONY TEN 4 SD
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="ENGLISH",SONY TEN 4 HD
- https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
- 
-#EXTINF: -1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png" group-title="ENGLSH",BBC EARTH
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-
-#EXTINF: -1 tvg-id="9XM.IN" tvg-language="HINDI" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="HINDI",9XM
-https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-
 #EXTINF: -1 tvg-id="SAKSHITV.IN" tvg-language="TELUGU" tvg-logo="https://stonna.com/wp-content/uploads/2020/05/maxresdefault_live-12.jpg" group-title="TELUGU",SAKSHI TV TELUGU
 https://www.youtube.com/watch?v=8McTsOqeueE
-
-#EXTINF: -1 tvg-id="SAKSHITV.IN" tvg-language="TELUGU" tvg-logo="https://stonna.com/wp-content/uploads/2020/05/maxresdefault_live-12.jpg" group-title="TELUGU",SAKSHI TV TELUGU
-https://manifest.googlevideo.com:443/api/manifest/hls_playlist/expire/1633301387/ei/K99ZYZ_7FrzN4-EPleOZmAQ/ip/117.199.237.101/id/8McTsOqeueE.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-cnoa-gq2e.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5870/mh/p3/mm/44/mn/sn-cnoa-gq2e/ms/lva/mv/m/mvi/2/pl/21/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1633279473/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgSBw6celU0275m57RwE1U_t6iNyD5FXgbkQRW7Tl7szgCIQCP1jR_OOP2zLhM6rN2tfRcW5rK4amXYZ3C1ahAZsdb3w%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAMn-x_VK7Skx-v8qMmlgDym7Hf_OatzoM7nCFKqkomONAiB7QAGKOd-6axsi1Qd5FODVzZBLpHxiSEO8BwMdF_B8_g%3D%3D/playlist/index.m3u8
