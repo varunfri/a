@@ -470,3 +470,21 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40866
 
 #EXTINF:-1 ,Sneh TELUGU (HD)- TATA SKY TELUGU CINEMA HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40867
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000749&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMDg0NTIwOTU0IiwiaXNlIjp0cnVlLCJqdGkiOiJlMjc4ZDZiNS04ZDUzLTQxNjUtODgwNy05NGYwZWMyOGI0NmIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMzNDEzOTI3LCJuYW1lIjoiQ2FwdGFpbiBHb3V0YW0iLCJpYXQiOjE2MzMzMjc1MjcsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMDAwMSJ9XSwiaXNzIjoiVFROIn0.QZSARZpyvSgmJZV_BZjI8bzahowGEiL9Mas-1HHohyE
+
+#EXTINF:-1 tvg-id="706" group-title="News" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38638-jty095tk-v1/imageContent-38638-jty095tk-m1.png" ,TV9 Bharatvarsh
+
+https://delta42tatasky.akamaized.net/out/i/200.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000311&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMDg0NTIwOTU0IiwiaXNlIjp0cnVlLCJqdGkiOiI4Nzg3ZTc4NC1iODZhLTQxMzUtOTQ2Ni1lYTAzM2JlMWQ3YWUiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMzNDEzOTI3LCJuYW1lIjoiQ2FwdGFpbiBHb3V0YW0iLCJpYXQiOjE2MzMzMjc1MjcsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMDAwMSJ9XSwiaXNzIjoiVFROIn0.WHndfGK9A1jnI4f7MDelJs6MFfUba3ZwuutaOH4NLYI
+
+#EXTINF:-1 tvg-id="296" group-title="Drama" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v1/imageContent-11263-j9j1tch4-m1.png" ,Bflix Movies
+
+https://delta33tatasky.akamaized.net/out/i/2492508.mpd
