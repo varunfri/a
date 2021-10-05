@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000553&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMDg0NTIwOTU0IiwiaXNlIjp0cnVlLCJqdGkiOiI5MTA0ZmVhMC1jNTM4LTQ0NjQtOTFhMC0wOThiZWE0ODNmYzIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMzNTIyNzM0LCJuYW1lIjoiQ2FwdGFpbiBHb3V0YW0iLCJpYXQiOjE2MzM0MzYzMzQsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMDAwMSJ9XSwiaXNzIjoiVFROIn0.P7EnXl8Cbi7rAP4lXzlYfGFQqf1ZZmA_3yDZS4i-T78
 #EXTINF:-1 tvg-id="516" group-title="Entertainment" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png" ,STAR Maa HD
