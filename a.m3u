@@ -1,4 +1,7 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF: -1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title=" Jio Telugu", Zee Cinemalu
+http://jo123.biz/jweb/m3u8.php?c=Zee_Cinemalu&q=800&e=junk.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000374&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMDg0NTIwOTU0IiwiaXNlIjp0cnVlLCJqdGkiOiIxZWRlYWRiMS00ODZmLTQ1NjAtOGFlYi00YWYyYWMwYmVmOTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjMzNjA5ODIwLCJuYW1lIjoiQ2FwdGFpbiBHb3V0YW0iLCJpYXQiOjE2MzM1MjM0MjAsImVudCI6W3siZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMDAwMSJ9XSwiaXNzIjoiVFROIn0.PhVb7zj9cNhn_TRzS7WJr5cLKRqFbfnuJq6_3IueBFk
 #EXTINF:-1  group-title="Drama" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png" ,Gemini Movies HD
